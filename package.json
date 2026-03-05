@@ -16,12 +16,12 @@
 	"devDependencies": {
 		"@lerna-lite/cli": "latest",
 		"@lerna-lite/publish": "latest",
-		"@tsslint/cli": "^2.0.4",
-		"@tsslint/config": "^2.0.4",
-		"@tsslint/eslint": "^2.0.4",
+		"@tsslint/cli": "latest",
+		"@tsslint/config": "latest",
+		"@tsslint/compat-eslint": "latest",
 		"@types/node": "latest",
-		"@typescript-eslint/eslint-plugin": "^8.19.0",
-		"dprint": "^0.50.0",
+		"@typescript-eslint/eslint-plugin": "latest",
+		"dprint": "latest",
 		"typescript": "latest",
 		"vitest": "latest"
 	}
